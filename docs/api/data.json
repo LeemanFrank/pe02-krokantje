@@ -1,0 +1,57 @@
+﻿{
+  "starters": [
+    {
+      "name": "Sprinkhaan",
+      "description": "Krokante Sprinkhaan op een bedje van kakkerlak",
+      "price": 5.99,
+      "picture": "Foto1.jpg"      
+    },
+    {
+      "name": "Tandoori Burger",
+      "description": "Burger op basis van Tandoori, een snelle hap als hongerstillertje",
+      "price": 4.99,
+      "picture": "Foto3.jpg"      
+    },
+    {
+      "name": "CupCake",
+      "description": "Eetbare Cupcake, met wormpjes",
+      "price": 2.99,
+      "picture": "Foto9.jpg"      
+    }
+  ],
+  "mainCourses": [
+    {
+      "name": "Sushi",
+      "description": "Speciale Sushi met een summum aan krakertjes",
+      "price": 7.99,
+      "picture": "Foto8.jpg"      
+    },
+    {
+      "name": "Insect Burger",
+      "description": "Een burger met lekkers en Pont-Neuf frietjes",
+      "price": 4.99,
+      "picture": "Foto5.jpg"      
+    },
+    {
+      "name": "Salade",
+      "description": "Salade op basis van zelfgevonden items",
+      "price": 1.99,
+      "picture": "Foto10.jpg"
+          }
+  ],
+  "desserts" : [
+    {
+      "name": "Lolly",
+      "description": "Een lolly met inhoud, een vleugje nostalgie",
+      "price": 2.99,
+      "picture": "Foto6.jpg"
+      
+    },
+    {
+      "name": "IJsje",
+      "description": "Lekker ijs met licht glimmende worms on the side",
+      "price": 2.99,
+      "picture": "Foto7.jpg"      
+    }
+  ]
+}
